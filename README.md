@@ -2,14 +2,14 @@
 
 This project count islands in given multiline text. Island is group of connected 1's and following structure is accepted:
 
-1 0 0 0 0 0 0 0 1
-0 1 0 0 0 0 0 0 0
-1 0 1 0 0 0 1 0 0
-1 1 0 0 0 1 1 1 0
-0 0 1 0 0 1 1 0 0
-0 0 1 0 0 0 1 0 0
-1 1 1 0 0 0 1 0 0
-0 0 0 0 0 1 1 1 1
+1 0 0 0 0 0 0 0 1__
+0 1 0 0 0 0 0 0 0__
+1 0 1 0 0 0 1 0 0__
+1 1 0 0 0 1 1 1 0__
+0 0 1 0 0 1 1 0 0__
+0 0 1 0 0 0 1 0 0__
+1 1 1 0 0 0 1 0 0__
+0 0 0 0 0 1 1 1 1__
 
 In this example there are 3 islands.
 
